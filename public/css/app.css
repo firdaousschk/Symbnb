@@ -1,0 +1,13 @@
+.container{
+    margin-top:20px;
+}
+.ad-title{
+    margin-top:20px;
+    padding:2em;
+    background-size:cover;
+    background-position:center center;
+}
+.ad-title h1 ,.ad-title p,.carousel-caption h5{
+    color:#fff;
+    text-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+}
